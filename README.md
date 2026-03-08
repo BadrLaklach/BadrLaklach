@@ -4,20 +4,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=120&section=header" alt="header"/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle" align="left">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=e11d48&center=false&vCenter=true&width=420&height=80&lines=Badr+Laklach;Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer" alt="Badr Laklach"/>
-        </a>
-      </td>
-      <td valign="middle" align="right">
-        <img src="./Tech%20Coding%20GIF%20by%20Persona.gif" alt="Chibi Coder" width="180"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="./Tech%20Coding%20GIF%20by%20Persona.gif" alt="Chibi Coder" width="200" align="right"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=e11d48&center=false&vCenter=true&width=500&height=80&lines=Badr+Laklach;Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer" alt="Badr Laklach"/>
+</a>
+
 
 <br>
 
