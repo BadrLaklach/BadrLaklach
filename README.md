@@ -5,33 +5,39 @@
     You may want to connect with me on LinkedIn @badr-laklach :))
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3b82f6&width=500&lines=Hello%2C+it's+Badr+Laklach;Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer" alt="Badr Laklach"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=e11d48&width=500&lines=Hello%2C+it's+Badr+Laklach;Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer" alt="Badr Laklach"/>
 </a>
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
+### 👨‍💻 About Me
+I'm a 4th-year **Software Engineering & Intelligent Systems** student at the National School of Arts and Crafts (ENSAM) in Meknes, Morocco. I'm passionate about building robust mobile applications, developing full-stack web solutions, and applying Machine Learning to solve real-world problems.
 
-<!-- 
-<div>
-    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
-</div>
--->
+- 🎓 Currently pursuing my Engineering Degree.
+- 💡 Interested in AI, Data Science, and creating scalable system architectures.
+- 🎸 In my free time, I enjoy playing guitar, composing beat productions, and working out.
 
-<!--
-     This is the list of my skills and tools!
--->
-### Main skills
+### 🛠️ Main Skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,js,dart,bash,flutter,react,vite,fastapi,nodejs,express,spring,postgres,mysql,mongodb,supabase,git,docker,firebase,androidstudio,idea,vscode,tensorflow,scikitlearn)](https://skillicons.dev)
 
-<!--
-     Fast links to my socials!
--->
+### 🚀 Experience
+**Mobile Developer Intern | Med You In** *(Jul 2025 – Aug 2025)*
+- Built two production Flutter apps (HR Admin Interface & E-commerce) with sub-3s launch times.
+- Implemented secure auth with Supabase and Google OAuth 2.0.
+- Managed UI state with GetX and integrated Firebase Cloud Messaging.
 
-### Connect with me!
+### 💻 Featured Projects
+* **DariPredictor** — A Full-Stack web app to predict Moroccan real estate prices using Python, XGBoost, FastAPI, and React/Vite. Scraped ~20k listings and deployed via Docker.
+* **XP-FIT** — Gamified fitness mobile application built with Flutter and REST APIs, featuring an XP reward system for motivation.
+* **Local Network Management Tool** — An Excel VBA desktop app for IP tracking, bandwidth visualization, and networking inventory.
+
+### 📜 Certifications
+- **Oracle Cloud Infrastructure 2025 (Data Science Professional)**
+- **Oracle Cloud Infrastructure 2025 (Foundations Associate)**
+- **PCEP – Certified Entry-Level Python Programmer**
+
+### Let's Connect!
 <div>
     <a href="https://www.linkedin.com/in/badr-laklach/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
@@ -44,16 +50,8 @@
     </a>
 </div>
 
-<!--
-     Oh, hello there, recruiters!
--->
-
 ### Employer?
 > [!IMPORTANT]  
 > <a href="./CV2026BADR.pdf" download>Download my resume</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=120&section=footer" alt="footer"/>
