@@ -1,43 +1,49 @@
 <!--
-    Hey there, I'm Badr Laklach!
-    Happy to see you here exploring my readme!
-    
-    You may want to connect with me on LinkedIn @badr-laklach :))
+    Badr Laklach - Profile README
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=e11d48&width=500&lines=Hello%2C+it's+Badr+Laklach;Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer" alt="Badr Laklach"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=e11d48&width=500&lines=Badr+Laklach;Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer" alt="Badr Laklach"/>
 </a>
 
-### 👨‍💻 About Me
-I'm a 4th-year **Software Engineering & Intelligent Systems** student at the National School of Arts and Crafts (ENSAM) in Meknes, Morocco. I'm passionate about building robust mobile applications, developing full-stack web solutions, and applying Machine Learning to solve real-world problems.
+<br>
+<blockquote>
+  <p align="center">
+    <i>"Talk is cheap. Show me the code."</i><br>
+    — Linus Torvalds
+  </p>
+</blockquote>
+<br>
 
-- 🎓 Currently pursuing my Engineering Degree.
-- 💡 Interested in AI, Data Science, and creating scalable system architectures.
-- 🎸 In my free time, I enjoy playing guitar, composing beat productions, and working out.
+### About Me
+I am a 4th-year **Software Engineering & Intelligent Systems** student at the National School of Arts and Crafts (ENSAM) in Meknes, Morocco. My focus lies in building reliable mobile applications, developing full-stack web solutions, and applying Machine Learning to practical environments.
 
-### 🛠️ Main Skills
+- Currently completing my Engineering Degree.
+- Exploring system architecture, predictive modeling, and data science.
+- Beyond software, I practice guitar, produce music, and maintain a consistent fitness routine.
+
+### Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,js,dart,bash,flutter,react,vite,fastapi,nodejs,express,spring,postgres,mysql,mongodb,supabase,git,docker,firebase,androidstudio,idea,vscode,tensorflow,scikitlearn)](https://skillicons.dev)
 
-### 🚀 Experience
+### Professional Experience
 **Mobile Developer Intern | Med You In** *(Jul 2025 – Aug 2025)*
-- Built two production Flutter apps (HR Admin Interface & E-commerce) with sub-3s launch times.
-- Implemented secure auth with Supabase and Google OAuth 2.0.
-- Managed UI state with GetX and integrated Firebase Cloud Messaging.
+- Developed two production-ready Flutter applications (HR Admin Interface & E-commerce) optimized for sub-3s launch times.
+- Integrated secure authentication utilizing Supabase and Google OAuth 2.0.
+- Handled UI state management via GetX and deployed real-time notifications with Firebase Cloud Messaging.
 
-### 💻 Featured Projects
-* **DariPredictor** — A Full-Stack web app to predict Moroccan real estate prices using Python, XGBoost, FastAPI, and React/Vite. Scraped ~20k listings and deployed via Docker.
-* **XP-FIT** — Gamified fitness mobile application built with Flutter and REST APIs, featuring an XP reward system for motivation.
-* **Local Network Management Tool** — An Excel VBA desktop app for IP tracking, bandwidth visualization, and networking inventory.
+### Featured Projects
+* **DariPredictor** — A full-stack web application predicting Moroccan real estate prices. Leveraged Python, XGBoost, FastAPI, and React/Vite. Scraped ~20k property listings and containerized the solution with Docker.
+* **XP-FIT** — A gamified fitness mobile application developed with Flutter, integrating REST APIs and a custom XP reward system.
+* **Local Network Management Tool** — A desktop utility built natively in Excel VBA for IP tracking, bandwidth visualization, and hardware inventory management.
 
-### 📜 Certifications
-- **Oracle Cloud Infrastructure 2025 (Data Science Professional)**
-- **Oracle Cloud Infrastructure 2025 (Foundations Associate)**
-- **PCEP – Certified Entry-Level Python Programmer**
+### Certifications
+- **Oracle Cloud Infrastructure 2025** — Data Science Professional
+- **Oracle Cloud Infrastructure 2025** — Foundations Associate
+- **PCEP** — Certified Entry-Level Python Programmer
 
-### Let's Connect!
+### Connect
 <div>
     <a href="https://www.linkedin.com/in/badr-laklach/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
@@ -50,8 +56,7 @@ I'm a 4th-year **Software Engineering & Intelligent Systems** student at the Nat
     </a>
 </div>
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="./CV2026BADR.pdf" download>Download my resume</a>
+### Resume
+<a href="./CV2026BADR.pdf" download>Download PDF</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=120&section=footer" alt="footer"/>
