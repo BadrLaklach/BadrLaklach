@@ -7,7 +7,7 @@
 <img src="./Tech%20Coding%20GIF%20by%20Persona.gif" alt="Chibi Coder" width="200" align="right"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=e11d48&center=false&vCenter=true&width=500&height=80&lines=Badr+Laklach;Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer" alt="Badr Laklach"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=e11d48&center=true&vCenter=true&width=500&height=80&lines=Badr+Laklach;Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer" alt="Badr Laklach"/>
 </a>
 
 
