@@ -9,12 +9,18 @@
 </a>
 
 <br>
-<blockquote>
-  <p align="center">
-    <i>"Talk is cheap. Show me the code."</i><br>
-    — Linus Torvalds
-  </p>
-</blockquote>
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Coding" width="700"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h2><b><font color="#FFFFFF">"Talk is cheap. Show me the code."</font></b></h2>
+  <h3><b><font color="#FFFFFF">— Linus Torvalds</font></b></h3>
+</div>
+
 <br>
 
 ### About Me
