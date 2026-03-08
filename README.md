@@ -12,8 +12,8 @@
 
 
 <div align="center">
-  <h2><b><font color="#FFFFFF">"Talk is cheap. Show me the code."</font></b></h2>
-  <h3><font color="#FFFFFF">— Linus Torvalds</font></h3>
+  <p><b><font size="6" color="#FFFFFF">"Talk is cheap. Show me the code."</font></b></p>
+  <p><b><font color="#FFFFFF">— Linus Torvalds</font></b></p>
 </div>
 
 <br>
