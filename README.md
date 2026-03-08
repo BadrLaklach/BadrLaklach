@@ -1,6 +1,6 @@
 <!--  Badr Laklach — Profile README  -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=140&section=header&text=Badr%20Laklach&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%26%20Intelligent%20Systems&descSize=18&descAlignY=58&descColor=ffffff" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=140&section=header" alt="header"/>
 
 <img src="./Tech%20Coding%20GIF%20by%20Persona.gif" alt="Chibi Coder" width="180" align="right"/>
 
