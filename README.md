@@ -11,12 +11,6 @@
 <br>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Coding" width="700"/>
-</div>
-
-<br>
-
-<div align="center">
   <h2><b><font color="#FFFFFF">"Talk is cheap. Show me the code."</font></b></h2>
   <h3><b><font color="#FFFFFF">— Linus Torvalds</font></b></h3>
 </div>
@@ -24,33 +18,30 @@
 <br>
 
 ### About Me
-I am a 4th-year **Software Engineering & Intelligent Systems** student at the National School of Arts and Crafts (ENSAM) in Meknes, Morocco. My focus lies in building reliable mobile applications, developing full-stack web solutions, and applying Machine Learning to practical environments.
+I am a 4th-year **Software Engineering & Intelligent Systems** student at the National School of Arts and Crafts (ENSAM) in Meknes. My focus lies in mobile applications, full-stack web solutions, and Machine Learning.
 
-- Currently completing my Engineering Degree.
-- Exploring system architecture, predictive modeling, and data science.
-- Beyond software, I practice guitar, produce music, and maintain a consistent fitness routine.
+- 🌍 Portfolio: [badrlaklach.github.io/my-portfolio](https://badrlaklach.github.io/my-portfolio/)
+- ⚙️ Exploring system architecture, predictive modeling, and data science.
 
 ### Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,js,dart,bash,flutter,react,vite,fastapi,nodejs,express,spring,postgres,mysql,mongodb,supabase,git,docker,firebase,androidstudio,idea,vscode,tensorflow,scikitlearn)](https://skillicons.dev)
 
 ### Professional Experience
 **Mobile Developer Intern | Med You In** *(Jul 2025 – Aug 2025)*
-- Developed two production-ready Flutter applications (HR Admin Interface & E-commerce) optimized for sub-3s launch times.
-- Integrated secure authentication utilizing Supabase and Google OAuth 2.0.
-- Handled UI state management via GetX and deployed real-time notifications with Firebase Cloud Messaging.
+- Developed two production-ready Flutter applications (HR Admin Interface & E-commerce).
+- Integrated Supabase and Google OAuth 2.0 authentication.
+- Implemented UI state management via GetX and Firebase Cloud Messaging.
 
 ### Featured Projects
-* **DariPredictor** — A full-stack web application predicting Moroccan real estate prices. Leveraged Python, XGBoost, FastAPI, and React/Vite. Scraped ~20k property listings and containerized the solution with Docker.
-* **XP-FIT** — A gamified fitness mobile application developed with Flutter, integrating REST APIs and a custom XP reward system.
-* **Local Network Management Tool** — A desktop utility built natively in Excel VBA for IP tracking, bandwidth visualization, and hardware inventory management.
-
-### Certifications
-- **Oracle Cloud Infrastructure 2025** — Data Science Professional
-- **Oracle Cloud Infrastructure 2025** — Foundations Associate
-- **PCEP** — Certified Entry-Level Python Programmer
+* **DariPredictor** — Full-stack web application predicting Moroccan real estate prices. (Python, XGBoost, FastAPI, React/Vite, Docker).
+* **XP-FIT** — Gamified fitness mobile application integrating REST APIs and a custom XP reward system. (Flutter).
+* **Local Network Management Tool** — Desktop utility for IP tracking and hardware inventory management. (Excel VBA).
 
 ### Connect
 <div>
+    <a href="https://badrlaklach.github.io/my-portfolio/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="Portfolio" width="35" height="35"/>
+    </a>
     <a href="https://www.linkedin.com/in/badr-laklach/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
