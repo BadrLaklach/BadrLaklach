@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e11d48&height=140&section=header" alt="header"/>
 
-<img src="./Tech%20Coding%20GIF%20by%20Persona.gif" alt="Chibi Coder" width="220" align="right"/>
+<img src="./Tech%20Coding%20GIF%20by%20Persona.gif" alt="Chibi Coder" width="250" align="right"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4500&pause=500&color=e11d48&center=false&vCenter=true&width=480&height=60&lines=Software+Engineering+Student;Machine+Learning+Enthusiast;Mobile+%26+Full-Stack+Developer" alt="Typing SVG"/>
