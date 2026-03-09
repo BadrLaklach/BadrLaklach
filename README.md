@@ -15,10 +15,29 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-badr--laklach-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-laklach/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-badrlaklach.github.io-e11d48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://badrlaklach.github.io/my-portfolio/)
-[![Email](https://img.shields.io/badge/Email-badrlaklach27@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrlaklach27@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV2026BADR.pdf)
+<div align="left">
+  <a href="https://www.linkedin.com/in/badr-laklach/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/BadrLaklach" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:badrlaklach27@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://badrlaklach.github.io/my-portfolio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="./CV2026BADR.pdf" download>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Resume PDF" width="36" height="40"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=BadrLaklach&style=flat-square&color=e11d48" alt="Profile Views"/>
 
 ---
 
@@ -56,9 +75,16 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 
 ### Certifications
 
-![Oracle DS](https://img.shields.io/badge/Oracle%20OCI%202025-Data%20Science%20Professional-e11d48?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle FA](https://img.shields.io/badge/Oracle%20OCI%202025-Foundations%20Associate-e11d48?style=for-the-badge&logo=oracle&logoColor=white)
-![PCEP](https://img.shields.io/badge/PCEP-Certified%20Python%20Programmer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="22" height="22" style="vertical-align:middle"/>
+  &nbsp;<b>Oracle OCI 2025</b> — Data Science Professional
+  <br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="22" height="22" style="vertical-align:middle"/>
+  &nbsp;<b>Oracle OCI 2025</b> — Foundations Associate
+  <br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="22" height="22" style="vertical-align:middle"/>
+  &nbsp;<b>PCEP</b> — Certified Entry-Level Python Programmer
+</div>
 
 ---
 
