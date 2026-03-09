@@ -65,9 +65,13 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BadrLaklach&show_icons=true&theme=tokyonight&hide_border=true&title_color=e11d48&icon_color=e11d48&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadrLaklach&layout=compact&theme=tokyonight&hide_border=true&title_color=e11d48&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=BadrLaklach&theme=tokyonight&hide_border=true&ring=e11d48&fire=e11d48&currStreakLabel=e11d48" alt="GitHub Streak Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BadrLaklach&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <br/>
