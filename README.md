@@ -26,7 +26,7 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 
 <div align="center">
   <br/>
-  <p><font size="7" color="#FFFFFF"><i>"Talk is cheap. Show me the code."</i></font></p>
+  <p><font size="10" color="#FFFFFF"><i>"Talk is cheap. Show me the code."</i></font></p>
   <p><font size="4" color="#e11d48"><b>— Linus Torvalds</b></font></p>
   <br/>
 </div>
