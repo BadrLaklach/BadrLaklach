@@ -20,24 +20,24 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 [![Gmail](https://img.shields.io/badge/Gmail-badrlaklach27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrlaklach27@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-e11d48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV2026BADR.pdf)
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=BadrLaklach&style=flat-square&color=e11d48" alt="Profile Views"/>
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=2" width="100%"/>
 
 <div align="center">
-  <h3><i><font color="#FFFFFF">"Talk is cheap. Show me the code."</font></i></h3>
-  <h4><font color="#e11d48">— Linus Torvalds</font></h4>
+  <br/>
+  <p><font size="6" color="#FFFFFF"><i>"Talk is cheap. Show me the code."</i></font></p>
+  <p><font size="4" color="#e11d48"><b>— Linus Torvalds</b></font></p>
+  <br/>
 </div>
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=2" width="100%"/>
 
 ### Technology Stack
 
 [![Skills](https://skillicons.dev/icons?i=py,java,cpp,c,js,dart,bash,flutter,react,vite,fastapi,nodejs,express,spring,postgres,mysql,mongodb,supabase,git,docker,firebase,androidstudio,idea,vscode,tensorflow,scikitlearn)](https://skillicons.dev)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=2" width="100%"/>
 
 ### Professional Experience
 
@@ -46,7 +46,7 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 - Integrated Supabase (PostgreSQL + Auth) and Google OAuth 2.0 for secure, real-time authentication.
 - Managed UI state with GetX; deployed push notifications via Firebase Cloud Messaging.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=2" width="100%"/>
 
 ### Featured Projects
 
@@ -56,7 +56,7 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 | **XP-FIT** | Gamified fitness mobile app with an XP reward system for workout tracking and motivation. | Flutter · REST APIs |
 | **Network Manager** | Desktop utility for local network IP tracking, bandwidth visualization, and hardware inventory. | Excel VBA |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=2" width="100%"/>
 
 ### Certifications
 
@@ -66,7 +66,7 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28"/>&nbsp; **PCEP** &nbsp;·&nbsp; Certified Entry-Level Python Programmer
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=2" width="100%"/>
 
 ### GitHub Stats
 
