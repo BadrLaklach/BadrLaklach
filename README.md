@@ -15,25 +15,21 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 
 <br/>
 
-<div align="left">
+<div>
   <a href="https://www.linkedin.com/in/badr-laklach/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://github.com/BadrLaklach" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
   </a>
-  &nbsp;
   <a href="mailto:badrlaklach27@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="44" alt="Gmail"/>
   </a>
-  &nbsp;
   <a href="https://badrlaklach.github.io/my-portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio"/>
   </a>
-  &nbsp;
   <a href="./CV2026BADR.pdf" download>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Resume PDF" width="36" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="36" alt="Resume PDF"/>
   </a>
 </div>
 
@@ -76,14 +72,14 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 ### Certifications
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="22" height="22" style="vertical-align:middle"/>
-  &nbsp;<b>Oracle OCI 2025</b> — Data Science Professional
-  <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="22" height="22" style="vertical-align:middle"/>
-  &nbsp;<b>Oracle OCI 2025</b> — Foundations Associate
-  <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="22" height="22" style="vertical-align:middle"/>
-  &nbsp;<b>PCEP</b> — Certified Entry-Level Python Programmer
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="32" height="32"/>
+  &nbsp;<b>Oracle OCI 2025</b> &nbsp;·&nbsp; Data Science Professional
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="32" height="32"/>
+  &nbsp;<b>Oracle OCI 2025</b> &nbsp;·&nbsp; Foundations Associate
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
+  &nbsp;<b>PCEP</b> &nbsp;·&nbsp; Certified Entry-Level Python Programmer
 </div>
 
 ---
