@@ -16,22 +16,14 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 <br/>
 
 <div>
-  <a href="https://www.linkedin.com/in/badr-laklach/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/BadrLaklach" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
-  </a>
-  <a href="mailto:badrlaklach27@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="44" alt="Gmail"/>
-  </a>
-  <a href="https://badrlaklach.github.io/my-portfolio/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio"/>
-  </a>
-  <a href="./CV2026BADR.pdf" download>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="36" alt="Resume PDF"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Badr_Laklach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-laklach/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-badrlaklach.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://badrlaklach.github.io/my-portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-badrlaklach27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrlaklach27@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-e11d48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV2026BADR.pdf)
+
 </div>
+
 
 <img src="https://komarev.com/ghpvc/?username=BadrLaklach&style=flat-square&color=e11d48" alt="Profile Views"/>
 
