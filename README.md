@@ -18,7 +18,7 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Badr_Laklach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-laklach/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-badrlaklach.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://badrlaklach.github.io/my-portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-badrlaklach27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrlaklach27@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-e11d48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/BadrLaklach/BadrLaklach/main/CV2026BADR.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-e11d48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/BadrLaklach/BadrLaklach/blob/main/CV2026BADR.pdf)
 
 <img src="https://komarev.com/ghpvc/?username=BadrLaklach&style=flat-square&color=e11d48" alt="Profile Views"/>
 
