@@ -10,41 +10,35 @@
 
 <br/>
 
-4th-year **Software Engineering & Intelligent Systems** student at ENSAM Meknes, Morocco.  
+4th-year **Software Engineering & Intelligent Systems** student at ENSAM Meknes, Morocco.
 Building mobile apps, full-stack web solutions, and ML-driven systems.
 
 <br/>
-
-<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Badr_Laklach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-laklach/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-badrlaklach.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://badrlaklach.github.io/my-portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-badrlaklach27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrlaklach27@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-e11d48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV2026BADR.pdf)
 
-</div>
-
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=BadrLaklach&style=flat-square&color=e11d48" alt="Profile Views"/>
 
----
+<br/><br/>
 
 <div align="center">
-  <br>
-  <font color="#e11d48" size="7">❝</font>
-  <br>
-  <h2><i><font color="#FFFFFF">Talk is cheap. Show me the code.</font></i></h2>
-  <p><font color="#e11d48"><b>— Linus Torvalds</b></font></p>
-  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=400&size=22&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=38&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D" alt="Quote"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=14&duration=99999&pause=99999&color=e11d48&center=true&vCenter=true&width=300&height=24&lines=%E2%80%94+Linus+Torvalds" alt="Author"/>
 </div>
 
----
+<br/><br/>
 
 ### Technology Stack
 
 [![Skills](https://skillicons.dev/icons?i=py,java,cpp,c,js,dart,bash,flutter,react,vite,fastapi,nodejs,express,spring,postgres,mysql,mongodb,supabase,git,docker,firebase,androidstudio,idea,vscode,tensorflow,scikitlearn)](https://skillicons.dev)
 
----
+<br/>
 
 ### Professional Experience
 
@@ -53,32 +47,27 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 - Integrated Supabase (PostgreSQL + Auth) and Google OAuth 2.0 for secure, real-time authentication.
 - Managed UI state with GetX; deployed push notifications via Firebase Cloud Messaging.
 
----
+<br/>
 
 ### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **DariPredictor** | Full-stack real estate price prediction app for the Moroccan market. Scraped ~20k listings, trained a Stacking Ensemble (R²=0.842), deployed end-to-end. | Python · XGBoost · FastAPI · React/Vite · Docker |
+| **DariPredictor** | Full-stack real estate price prediction for the Moroccan market. Scraped ~20k listings, trained a Stacking Ensemble (R²=0.842), deployed end-to-end. | Python · XGBoost · FastAPI · React/Vite · Docker |
 | **XP-FIT** | Gamified fitness mobile app with an XP reward system for workout tracking and motivation. | Flutter · REST APIs |
 | **Network Manager** | Desktop utility for local network IP tracking, bandwidth visualization, and hardware inventory. | Excel VBA |
 
----
+<br/>
 
 ### Certifications
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="32" height="32"/>
-  &nbsp;<b>Oracle OCI 2025</b> &nbsp;·&nbsp; Data Science Professional
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="32" height="32"/>
-  &nbsp;<b>Oracle OCI 2025</b> &nbsp;·&nbsp; Foundations Associate
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
-  &nbsp;<b>PCEP</b> &nbsp;·&nbsp; Certified Entry-Level Python Programmer
-</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="28"/>&nbsp; **Oracle OCI 2025** &nbsp;·&nbsp; Data Science Professional
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="28"/>&nbsp; **Oracle OCI 2025** &nbsp;·&nbsp; Foundations Associate
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28"/>&nbsp; **PCEP** &nbsp;·&nbsp; Certified Entry-Level Python Programmer
+
+<br/>
 
 ### GitHub Stats
 
