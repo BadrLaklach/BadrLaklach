@@ -25,11 +25,8 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=2" width="100%"/>
 
 <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=60&lines=%22Talk+is+cheap.+Show+me+the+code.%22" alt="Quote"/>
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=40&text=%22Talk%20is%20cheap.%20Show%20me%20the%20code.%22&height=80&animation=fadeIn" width="100%" alt="Quote"/>
   <p><font size="4" color="#e11d48"><b>— Linus Torvalds</b></font></p>
-  <br/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=e11d48&height=2" width="100%"/>
