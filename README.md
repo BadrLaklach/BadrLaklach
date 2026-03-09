@@ -27,9 +27,8 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 <br/><br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=400&size=22&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=38&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D" alt="Quote"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=14&duration=99999&pause=99999&color=e11d48&center=true&vCenter=true&width=300&height=24&lines=%E2%80%94+Linus+Torvalds" alt="Author"/>
+  <h3><i><font color="#FFFFFF">"Talk is cheap. Show me the code."</font></i></h3>
+  <h4><font color="#e11d48">— Linus Torvalds</font></h4>
 </div>
 
 <br/><br/>
