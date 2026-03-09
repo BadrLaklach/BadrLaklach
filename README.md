@@ -71,7 +71,7 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BadrLaklach&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BadrLaklach&theme=tokyo-night&hide_border=true&color=e11d48&line=e11d48&point=ffffff" alt="Activity Graph"/>
 </div>
 
 <br/>
