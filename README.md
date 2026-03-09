@@ -15,10 +15,10 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-badr--laklach-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-laklach/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-e11d48?style=flat-square&logo=google-chrome&logoColor=white)](https://badrlaklach.github.io/my-portfolio/)
-[![Email](https://img.shields.io/badge/Email-badrlaklach27%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:badrlaklach27@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-111827?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./CV2026BADR.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-badr--laklach-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-laklach/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-badrlaklach.github.io-e11d48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://badrlaklach.github.io/my-portfolio/)
+[![Email](https://img.shields.io/badge/Email-badrlaklach27@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrlaklach27@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV2026BADR.pdf)
 
 ---
 
@@ -56,9 +56,9 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 
 ### Certifications
 
-![Oracle](https://img.shields.io/badge/Oracle_OCI_2025-Data_Science_Professional-e11d48?style=flat-square&logo=oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_OCI_2025-Foundations_Associate-e11d48?style=flat-square&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/PCEP-Certified_Python_Programmer-3776AB?style=flat-square&logo=python&logoColor=white)
+![Oracle DS](https://img.shields.io/badge/Oracle%20OCI%202025-Data%20Science%20Professional-e11d48?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle FA](https://img.shields.io/badge/Oracle%20OCI%202025-Foundations%20Associate-e11d48?style=for-the-badge&logo=oracle&logoColor=white)
+![PCEP](https://img.shields.io/badge/PCEP-Certified%20Python%20Programmer-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
