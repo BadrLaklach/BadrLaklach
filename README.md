@@ -51,7 +51,7 @@ Building mobile apps, full-stack web solutions, and ML-driven systems.
 | Project | Description | Stack |
 |---|---|---|
 | **DariPredictor** | Full-stack real estate price prediction for the Moroccan market. Scraped ~20k listings, trained a Stacking Ensemble (R²=0.842), deployed end-to-end. | Python · XGBoost · Neural Networks · SVM · FastAPI · React/Vite · Docker |
-| **XP-FIT** | Gamified fitness mobile app with an XP reward system for workout tracking and motivation. | Flutter · REST APIs · Supabase · Firebase · GetX |
+| **XP-FIT** | Gamified fitness mobile app with an XP reward system for workout tracking and motivation. | Flutter · REST APIs |
 | **IoT Smart Office** | Cisco Packet Tracer simulation of an automated workspace featuring RFID security, HVAC logic, and fire suppression. | Python · Packet Tracer · IoT Protocols |
 | **Anomaly TS-LSTM** | Time series utility for EC2 CPU monitoring using MAD, Isolation Forest, and LOF to detect resource spikes and temporal shifts. | Python · Scikit-Learn · Scipy |
 | **Network Manager** | Desktop utility for local network IP tracking, bandwidth visualization, and hardware inventory. | Excel VBA |
